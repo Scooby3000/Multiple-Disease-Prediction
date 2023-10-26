@@ -1,0 +1,1 @@
+streamlit run "C:\Dhairya\07 - SEM 7\ROSP LAB\Mini proj\multiple disease pred.py"
